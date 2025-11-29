@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rehma/Desktop/Semester%207/MLOPS/A4/mlops-mlflow-assignment4/mlruns/593983656539922543/71ce9f0525414bb79ba3ab4c16f805ab/artifacts
+end_time: 1764336961617
+entry_point_name: ''
+experiment_id: '593983656539922543'
+lifecycle_stage: active
+run_id: 71ce9f0525414bb79ba3ab4c16f805ab
+run_name: data_extraction
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764336961528
+status: 4
+tags: []
+user_id: rehma

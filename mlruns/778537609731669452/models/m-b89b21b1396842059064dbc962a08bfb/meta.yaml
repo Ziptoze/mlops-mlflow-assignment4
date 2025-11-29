@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rehma/Desktop/Semester%207/MLOPS/A4/mlops-mlflow-assignment4/mlruns/778537609731669452/models/m-b89b21b1396842059064dbc962a08bfb/artifacts
+creation_timestamp: 1764337985901
+experiment_id: '778537609731669452'
+last_updated_timestamp: 1764337989538
+model_id: m-b89b21b1396842059064dbc962a08bfb
+model_type: null
+name: linear_regression_model
+source_run_id: 8212d2be4b2349f7b66b6cf16f0ee8c0
+status: 2
+status_message: null

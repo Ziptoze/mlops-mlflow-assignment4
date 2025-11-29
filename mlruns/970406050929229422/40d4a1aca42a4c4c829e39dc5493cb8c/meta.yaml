@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rehma/Desktop/Semester%207/MLOPS/A4/mlops-mlflow-assignment4/mlruns/970406050929229422/40d4a1aca42a4c4c829e39dc5493cb8c/artifacts
+end_time: 1764408546687
+entry_point_name: ''
+experiment_id: '970406050929229422'
+lifecycle_stage: active
+run_id: 40d4a1aca42a4c4c829e39dc5493cb8c
+run_name: Full-Pipeline-Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764408546555
+status: 4
+tags: []
+user_id: rehma

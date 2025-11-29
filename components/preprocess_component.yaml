@@ -1,0 +1,10 @@
+description: Scales features using StandardScaler and splits dataset.
+inputs:
+- raw_dataframe
+name: preprocess_data
+outputs:
+- X_train_scaled
+- X_test_scaled
+- y_train
+- y_test
+- scaler

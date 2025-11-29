@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rehma/Desktop/Semester%207/MLOPS/A4/mlops-mlflow-assignment4/mlruns/778537609731669452/8212d2be4b2349f7b66b6cf16f0ee8c0/artifacts
+end_time: 1764337989556
+entry_point_name: ''
+experiment_id: '778537609731669452'
+lifecycle_stage: active
+run_id: 8212d2be4b2349f7b66b6cf16f0ee8c0
+run_name: thundering-quail-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764337985778
+status: 3
+tags: []
+user_id: rehma

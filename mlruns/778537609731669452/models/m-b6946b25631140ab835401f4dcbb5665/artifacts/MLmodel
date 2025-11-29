@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/rehma/Desktop/Semester%207/MLOPS/A4/mlops-mlflow-assignment4/mlruns/778537609731669452/models/m-b6946b25631140ab835401f4dcbb5665/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-b6946b25631140ab835401f4dcbb5665
+model_size_bytes: 547
+model_uuid: m-b6946b25631140ab835401f4dcbb5665
+prompts: null
+run_id: 6dfcb57136804b82bdebc4e8db9e94a7
+utc_time_created: '2025-11-29 09:57:23.055501'
